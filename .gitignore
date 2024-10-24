@@ -1,0 +1,7 @@
+# C3
+/build
+
+# System
+.DS_Store
+[Dd]esktop.ini
+*.swp*
